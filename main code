@@ -1,0 +1,195 @@
+<html>
+<head>
+<title>Таблица Д. И. Менделеева
+</title>
+</head>
+<body>
+
+<table width="100%" border="1" bordercolor="grey" align="char" char="7" cellpadding="5">
+<caption>Периодическая система химических элементов Д. И. Менделеева </caption> 
+ <tr> 
+  <th  rowspan=2 width="9%"> Периоды </th>
+  <th colspan=10> Группы элементов </th> 
+ </tr>
+ <tr height="50" >
+  <td width=" 9%"  align="center"> A 1 B </td> 
+  <td width=" 9%"  align="center"> A 2 B </td>
+  <td width=" 9%"  align="center"> A 3 B </td>
+  <td width=" 9%"  align="center"> A 4 B </td>
+  <td width=" 9%"  align="center"> A 5 B </td>
+  <td width=" 9%"  align="center"> A 6 B </td>
+  <td width=" 9%"  align="center"> A 7 B </td>
+  <td colspan=3   align="center"> A  8 B </td>
+ </tr>
+ <tr height="45">
+  <td  align="center"> 1 </td>
+  <td> H </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> <A HREF="He.html" TITLE="He">He</A> </td>
+  <td colspan=2> </td>
+ </tr>
+ <tr height="45">
+  <td  align="center"> 2 </td>
+  <td> Li </td>
+  <td align="left"> <A HREF="Be.html" TITLE="Be">Be</A> </td>
+  <td> <A HREF="B.html" TITLE="B">B</A>  </td>
+  <td align="left"> <A HREF="C.html" TITLE="C">C</A> </td>
+  <td> <A HREF="N.html" TITLE="N">N</A> </td>
+  <td> <A HREF="O.html" TITLE="O">O</A> </td>
+  <td> <A HREF="F.html" TITLE="F">F</A>  </td>
+  <td> <A HREF="Ne.html" TITLE="Ne">Ne</A> </td>
+  <td colspan=2> </td>
+ </tr>
+ <tr height="45" >
+  <td  align="center"> 3 </td>
+  <td> Na </td>
+  <td> <A HREF="Mg.html" TITLE="Mg">Mg</A> </td>
+  <td> Al </td>
+  <td> Si </td>
+  <td> P </td>
+  <td> <A HREF="S.html" TITLE="S">S</A> </td>
+  <td> Cl </td>
+  <td> Ar </td>
+  <td colspan=2> </td>
+ </tr>
+ <tr>
+  <td rowspan=2 height="90"  align="center"> 4 </td>
+  <td> K </td>
+  <td> Ca </td>
+  <td align="right"> Sc </td>
+  <td align="right"> Ti </td>
+  <td align="right"> V </td>
+  <td align="right"> Cr </td>
+  <td align="right"> Mn </td>
+  <td align="right"> Fe </td>
+  <td align="right"> Co </td> 
+  <td align="right"> Ni </td>   
+ </tr>
+ <tr height="45">
+  <td align="right"> Cu </td>
+  <td align="right"> Zn </td>
+  <td> Ga </td>
+  <td> Ge </td>
+  <td> As </td>
+  <td> Se </td>
+  <td> Br </td>
+  <td> Kr </td>
+  <td colspan=2> </td> 
+ </tr>
+ <tr>
+  <td rowspan=2 height="90"  align="center"> 5 </td>
+  <td> Rb </td>
+  <td> Sr </td>
+  <td align="right"> Y </td>
+  <td align="right"> Zr </td>
+  <td align="right"> Nb </td>
+  <td align="right"> Mo </td>
+  <td align="right"> Tc </td>
+  <td align="right"> Ru </td>
+  <td align="right"> Rh </td> 
+  <td align="right"> Rd </td>   
+ </tr>
+ <tr height="45">
+  <td align="right"> Ag </td>
+  <td align="right"> Cd </td>
+  <td> In </td>
+  <td> Sn </td>
+  <td> Sb </td>
+  <td> Te </td>
+  <td> I </td>
+  <td> Xe </td>
+  <td colspan=2> </td> 
+ </tr>
+ <tr>
+  <td rowspan=2 height="90"  align="center"> 6 </td>
+  <td> Cs </td>
+  <td> Ba </td>
+  <td align="right"> La </td>
+  <td align="right"> Hf </td>
+  <td align="right"> Ta </td>
+  <td align="right"> W </td>
+  <td align="right"> Re </td>
+  <td align="right"> Os </td>
+  <td align="right"> Ir </td> 
+  <td align="right"> Pt </td>   
+ </tr>
+ <tr height="45">
+  <td align="right"> Au </td>
+  <td align="right"> Hg </td>
+  <td> Tl </td>
+  <td> Rb </td>
+  <td> Bi </td>
+  <td> Po </td>
+  <td> At </td>
+  <td> Pn </td>
+  <td colspan=2> </td> 
+ </tr>
+ <tr height="45">
+  <td  align="center"> 7 </td>
+  <td> Fr </td>
+  <td> Ra </td>
+  <td align="right"> Ac </td>
+  <td align="right"> Rf </td>
+  <td align="right"> Db </td>
+  <td align="right"> Sg </td>
+  <td align="right"> Bh </td>
+  <td align="right"> Hs </td>
+  <td align="right"> Mt </td> 
+  <td align="right"> Ds </td>   
+ </tr>
+ <tr height="25"> 
+  <th colspan=11>  </th> 
+ </tr>
+
+</table>
+
+<table width="100%" border="1" bordercolor="grey" align="char" char="7" cellpadding="5">
+
+ <tr height="40"> 
+  <th colspan=14> Лантаноиды </th> 
+ </tr>
+ <tr height="45">
+  <td align="right"> <A HREF="Ce.html" TITLE="Ce">Ce</A> </td>
+  <td align="right"> Pr </td>    
+  <td align="right"> Nd </td>
+  <td align="right"> Pm </td>
+  <td align="right"> Sm </td>
+  <td align="right"> Eu </td>
+  <td align="right"> Gd </td>
+  <td align="right"> Tb </td>
+  <td align="right"> Dy </td>
+  <td align="right"> Ho </td> 
+  <td align="right"> Er </td>   
+  <td align="right"> Tm </td> 
+  <td align="right"> Yb </td> 
+  <td align="right"> Lu </td> 
+ </tr>
+ <tr height="40"> 
+  <th colspan=14> Актиноиды </th> 
+ </tr>
+ <tr  height="45">
+  <td align="right"> Th </td>
+  <td align="right"> Pa </td>
+  <td align="right"> U </td>
+  <td align="right"> Np </td>
+  <td align="right"> Pu </td>
+  <td align="right"> Am </td>
+  <td align="right"> Cm </td>
+  <td align="right"> Bk </td>
+  <td align="right"> Cf </td>
+  <td align="right"> Es </td> 
+  <td align="right"> Fm </td>   
+  <td align="right"> Md </td> 
+  <td align="right"> No </td> 
+  <td align="right"> Lr </td> 
+ </tr>
+
+</table>
+
+</body>
+</html>
